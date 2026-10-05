@@ -1,0 +1,6 @@
+{
+  "name": "Odysseus - Acompañante de Estudio Universitario",
+  "description": "Plataforma de estudio y retención espaciada para estudiantes universitarios con sincronización de materias, quizzes y consultas contextuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
